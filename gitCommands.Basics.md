@@ -1,3 +1,23 @@
+Command Prompt CLI
+echo comtent > fileName
+
+<!-- create file witn content/ whitespaces required  -->
+
+type 'filename'
+show in console file content
+
+del filename
+
+mkdir dirname
+
+<!-- create dir -->
+
+rmdir dirmane
+
+<!-- del dir -->
+
+move current locationDir
+
 git branch -D feature
 
 <!-- delete feature branch -->
