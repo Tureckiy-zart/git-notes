@@ -34,7 +34,7 @@ merging the remote changes into our local branches
 works if we have local branches witch connected to remote
 git pull origin doesn't works (need to specify branch name )
 
-lacal br connected tj remote tracking br => git pull
+local br connected tj remote tracking br => git pull
 
 git branch --track localBranchName origin/RemoteBranchName !!!!!!!!!
 

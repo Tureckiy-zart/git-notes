@@ -1,3 +1,12 @@
+<!-- to delete git account on local pc => control panel - all control item panel - credential manager - windows credentials - git:https://'username'@gitgub.com  -->
+<!-- to push changes in not yours repo in GH needs access token  -->
+<!--Create/delete Access Token: GH - Settings - <Developer settings> -->
+to add a collaborator tp the repo: REPO Settings - Manage Access - Invite collaborator github 
+
+
+
+
+
 Command Prompt CLI
 echo comtent > fileName
 
